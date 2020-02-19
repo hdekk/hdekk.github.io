@@ -18,8 +18,7 @@
       
       <guid>https://hdekk.github.io/blog/2013/07/04/ddi-xslt-transform-you-ddi-xhtml-marc-pdf/</guid>
       <description>With DDI-XSLT you can tranform your DDI-lifeccle XML to other formats including:
- DDI 1.2.2 (nesstar) XHTML MARC-XML Datacite metadata PDF codebooks  Demo site for transformations
-Google code page</description>
+ DDI 1.2.2 (nesstar) XHTML MARC-XML Datacite metadata PDF codebooks  Demo site for transformations Google code page</description>
     </item>
     
     <item>
@@ -28,7 +27,7 @@ Google code page</description>
       <pubDate>Mon, 26 May 2008 18:43:32 -0700</pubDate>
       
       <guid>https://hdekk.github.io/blog/2008/05/26/official-release-data-documentation-initiative-30/</guid>
-      <description>May 21, 2008 -- The Alliance for the Data Documentation Initiative (DDI) is pleased to announce the official release of Version 3.0 of the DDI XML specification for documenting social science data. This long awaited version of the DDI represents a major advance by fully incorporating XML Schemas and moving to a data life cycle approach. We thank all the members of the DDI working groups as well as DDI users who have volunteered their time and efforts over the past years to make this specification a reality.</description>
+      <description>May 21, 2008 &amp;ndash; The Alliance for the Data Documentation Initiative (DDI) is pleased to announce the official release of Version 3.0 of the DDI XML specification for documenting social science data. This long awaited version of the DDI represents a major advance by fully incorporating XML Schemas and moving to a data life cycle approach. We thank all the members of the DDI working groups as well as DDI users who have volunteered their time and efforts over the past years to make this specification a reality.</description>
     </item>
     
   </channel>
